@@ -1,9 +1,8 @@
-
 ## 💳 Credit Card Fraud Detection using Machine Learning
 
 This project focuses on detecting fraudulent credit card transactions using Machine Learning classification algorithms. The project demonstrates an end-to-end ML workflow including data preprocessing, exploratory data analysis, feature scaling, model training, evaluation, and model comparison.
 
-🎯 Project Objective
+# 🎯 Project Objective
 
 The main objective is to build machine learning models that can classify credit card transactions as:
 
@@ -12,7 +11,7 @@ The main objective is to build machine learning models that can classify credit 
 
 Since fraud detection is an imbalanced classification problem, the project evaluates models using multiple performance metrics rather than relying only on accuracy.
 
-🤖 Machine Learning Models
+# 🤖 Machine Learning Models
 
 The following classification algorithms were implemented and compared:
 
@@ -20,7 +19,7 @@ Logistic Regression
 Decision Tree Classifier
 Random Forest Classifier
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 🐍 Python
 🐼 Pandas
 🔢 NumPy
@@ -29,7 +28,7 @@ Random Forest Classifier
 🤖 Scikit-learn
 📓 Jupyter Notebook
 
-🔍 Project Workflow
+# 🔍 Project Workflow
 Dataset
    ↓
 Data Exploration
@@ -53,7 +52,7 @@ Model Evaluation
    ↓
 Model Comparison
 
-📊 Exploratory Data Analysis
+# 📊 Exploratory Data Analysis
 
 The project includes visualizations for:
 
@@ -63,7 +62,7 @@ Feature correlation
 Confusion matrix
 Model performance comparison
 
-📈 Model Evaluation
+# 📈 Model Evaluation
 
 The models are evaluated using:
 
@@ -83,7 +82,7 @@ Therefore, a model can achieve high accuracy while still failing to detect fraud
 
 For this reason, Precision, Recall, F1-Score, and the Confusion Matrix are important metrics in this project.
 
-📂 Project Structure
+# 📂 Project Structure
 Credit-Card-Fraud-Detection/
 │
 ├── Dataset/
@@ -99,7 +98,7 @@ Credit-Card-Fraud-Detection/
 │
 └── README.md
 
-💼 Business Use Case
+# 💼 Business Use Case
 
 Fraud detection models can help financial institutions:
 
@@ -109,6 +108,6 @@ Detect potentially fraudulent activity
 Improve transaction monitoring
 Support automated fraud screening
 
-🚀 Key Skills Demonstrated
+# 🚀 Key Skills Demonstrated
 
 Data Cleaning | Exploratory Data Analysis | Feature Scaling | Classification | Logistic Regression | Decision Tree | Random Forest | Model Evaluation | Imbalanced Classification | Data Visualization | Python | Pandas | NumPy | Scikit-learn
